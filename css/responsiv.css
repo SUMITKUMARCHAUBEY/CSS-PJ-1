@@ -1,0 +1,17 @@
+@media screen and (max-width:800px) {
+    nav{
+        padding-top: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .search input{
+        width: 120px;
+    }
+    .container img{
+        padding-top: 10px;
+        width: 80vw;
+        height: 30vh;
+        padding-left:8.9vw ;
+       }
+}
